@@ -131,7 +131,7 @@ The link below acts like a bookmark, helping you recap the service via a short i
 |     | ID          | Certification Name                                 | Learning path                                       |
 | --- | ----------- | -------------------------------------------------- | --------------------------------------------------- |
 | 1   | AWS SAA-C03 | AWS Certified Solutions Architect - Associate exam | 📖 [aws-saa-c03.md](./certification/aws-saa-c03.md) |
-| 2   | AWS CLF-C02 | AWS Certified Cloud Practitioner exam              | ...coming soon                                      |
+| 2   | AWS CLF-C02 | AWS Certified Cloud Practitioner exam              | 📖 [aws-clf-c02.md](https://github.com/christarascon/AWS-Cloud-Practitioner-Exam-Guide)                                      |
 | 3   | AWS DOP-C02 | AWS Certified DevOps Engineer - Professional exam  | ...coming soon                                      |
 
 ➡️ Explore this [**set of specific AWS Certification resources**](./certification/) for more details.
