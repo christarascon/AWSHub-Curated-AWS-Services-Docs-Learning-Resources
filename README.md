@@ -91,6 +91,7 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 - Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
   - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
   - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Study Guide & Sample Questions: [**here**](https://www.isecprep.com/wp-content/uploads/2022/11/AWS-SAA-C03-Question-Answer.pdf)
 
 ### Course
 
