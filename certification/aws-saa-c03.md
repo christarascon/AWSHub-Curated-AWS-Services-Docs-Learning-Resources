@@ -20,6 +20,10 @@
 
 - https://awsfirstcloudjourney.github.io/
 
+## VMExam – Practice Tests for AWS SAA-C03
+
+- https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate
+
 ## Udemy - Ultimate AWS Certified Solutions Architect Associate SAA-C03 (By Stephane Maarek)
 
 - https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=KEEPLEARNING
