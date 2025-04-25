@@ -110,6 +110,8 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 - Exam Topics - List of all Amazon exams (Free): [**here**](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
+- VMExam AWS SAA-C03 (Solutions Architect – Associate) (E.g: [AWS SAA-C03](https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate))
+- VMExam AWS Practice Tests (All Levels): [**here**](https://www.vmexam.com/aws)
 
 ### Guides/Cheat Sheets
 
