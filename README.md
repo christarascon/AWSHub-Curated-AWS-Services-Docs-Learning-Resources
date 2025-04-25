@@ -3,13 +3,6 @@
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
 <p align="center">Whether you're a new member of the AWS community or a developer/cloud engineer seeking a centralized document hub for all things AWS, this repository will assist you. Consider this repository as your bookmark for all essential AWS resources, including AWS Certification materials, documentation for AWS services, and AWS Architecture insights. 🔥</p>
 
-<p align="center">
-<a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
-<a href="https://github.com/tungbq/AWS-LearningResource/releases"><img alt="devops-basic release" src="https://img.shields.io/github/release/tungbq/AWS-LearningResource.svg" /></a>
-<a href="https://github.com/tungbq/AWS-LearningResource/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tungbq/AWS-LearningResource"/></a>
-
-</p>
-
 ## Getting started 🚀
 
 - What is AWS? | Amazon Web Services: ➡️ [**Watch here**](https://youtu.be/a9__D53WsUs)
@@ -106,18 +99,8 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 - Free AWS Cloud Complete Bootcamp Course: https://youtu.be/zA8guDqfv40
 
 ### Practice Tests
-
-- Exam Topics - List of all Amazon exams (Free): [**here**](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
-- TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
-- Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
-- VMExam AWS SAA-C03 (Solutions Architect – Associate) (E.g: [AWS SAA-C03](https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate))
-- VMExam AWS Practice Tests (All Levels): [**here**](https://www.vmexam.com/aws)
-
-### Guides/Cheat Sheets
-
-- Digital Cloud Training- AWS Cheat Sheets: https://digitalcloud.training/aws-cheat-sheets/
-- TutorialsDojo - AWS Cheat Sheets: https://tutorialsdojo.com/aws-cheat-sheets/
-- Whizlabs - AWS Cheat Sheets: https://www.whizlabs.com/blog/aws-cheat-sheet/
+Sharpen your skills with VMExam’s AWS Practice Tests – from beginner to expert levels. Whether you're aiming for the SAA-C03 Solutions Architect – Associate or exploring all AWS certifications, we’ve got you covered with realistic, up-to-date questions.
+👉 [Try SAA-C03 Now](https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate) | [Explore All AWS Practice Tests](https://www.vmexam.com/aws)
 
 ### AWS Services Learning Resources
 
